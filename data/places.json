@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Cox's Bazar",
+      "shortDescription": "Known for its long sandy beach, Cox's Bazar is a popular destination for tourists. It is located in the southeastern part of Bangladesh.",
+      "fullDescription": "Cox's Bazar is a coastal town in southeastern Bangladesh. It is known for its long, sandy beach, which stretches for over 120 kilometers. The beach is lined with hotels and restaurants, making it a popular destination for tourists.",
+      "photo": "https://i.ibb.co/8Y6BZwJ/cox-s-Bazar.png"
+    },
+    {
+      "id": 2,
+      "name": "Sundarbans",
+      "shortDescription": "The Sundarbans is the world's largest mangrove forest and is home to the Royal Bengal tiger and other wildlife. It is a UNESCO World Heritage site and a popular destination for eco-tourism.",
+      "fullDescription": "The Sundarbans is a vast mangrove forest in the delta of the Ganges, Brahmaputra, and Meghna rivers. It is home to the Royal Bengal tiger, saltwater crocodile, and other wildlife. The Sundarbans is a UNESCO World Heritage site and a popular destination for eco-tourism.",
+      "photo": "https://i.ibb.co/489wVqP/sundorbon.png"
+    },
+    {
+      "id": 3,
+      "name": "Srimangal",
+      "shortDescription": "Srimangal is known as the tea capital of Bangladesh due to its numerous tea gardens. It is located in the northeastern part of the country and is a popular destination for nature lovers.",
+      "fullDescription": "Srimangal is a town in northeastern Bangladesh. It is known for its tea gardens, rolling hills, and beautiful landscapes. Srimangal is also home to the Lawachara National Park, a protected forest reserve that is home to a variety of flora and fauna.",
+      "photo": "https://i.ibb.co/nkYDFHT/Sreemongol.png"
+    },
+    {
+      "id": 4,
+      "name": "Rangamati",
+      "shortDescription": "Rangamati is a district that is primarily known for its hydroelectric power generation. It is home to several hydropower plants that harness the power of the Karnafuli River to generate electricity.",
+      "fullDescription": "Rangamati is a hill district in southeastern Bangladesh. It is known for its scenic beauty, waterfalls, and traditional indigenous villages. Rangamati is also a popular destination for trekking and hiking.",
+      "photo": "https://i.ibb.co/fdnR9ch/Sajek.png"
+    }
+    
+  ]
+  

@@ -1,0 +1,194 @@
+[
+    {
+        "_id": "h1Jx2Kw",
+        "placeId": 1,
+        "hotelName": "Pan Pacific Sonargaon",
+        "hotelSpecialty": [
+            "Private Beach Access",
+            "Outdoor Pool"
+        ],
+        "imageUrl": "https://i.ibb.co/X5vDm1L/Rectangle-26.png",
+        "numberOfGuests": 4,
+        "numberOfBedrooms": 2,
+        "numberOfBaths": 2,
+        "numberOfBeds": 2,
+        "ratings": 4.8,
+        "cost": 200
+    },
+    {
+        "_id": "a3Df8Lm",
+        "placeId": 1,
+        "hotelName": "Hotel Sea Crown",
+        "hotelSpecialty": [
+            "Sea View Rooms",
+            "Fine Dining"
+        ],
+        "imageUrl": "https://i.ibb.co/CbNdN9M/Rectangle-27.png",
+        "numberOfGuests": 2,
+        "numberOfBedrooms": 1,
+        "numberOfBaths": 1,
+        "numberOfBeds": 1,
+        "ratings": 4.2,
+        "cost": 100
+    },
+    {
+        "_id": "z9Gh6Fn",
+        "placeId": 1,
+        "hotelName": "Long Beach Hotel",
+        "hotelSpecialty": [
+            "Luxury Accommodation",
+            "Private Balconies"
+        ],
+        "imageUrl": "https://i.ibb.co/mhddwGF/Rectangle-28.png",
+        "numberOfGuests": 2,
+        "numberOfBedrooms": 1,
+        "numberOfBaths": 1,
+        "numberOfBeds": 1,
+        "ratings": 4.5,
+        "cost": 150
+    },
+    {
+        "_id": "q5Rt7Ps",
+        "placeId": 2,
+        "hotelName": "Hotel Royal International",
+        "hotelSpecialty": [
+            "Rooftop Pool",
+            "Fitness Center"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+        "numberOfGuests": 2,
+        "numberOfBedrooms": 1,
+        "numberOfBaths": 1,
+        "numberOfBeds": 1,
+        "ratings": 4.5,
+        "cost": 60
+    },
+    {
+        "_id": "v2Bc9Np",
+        "placeId": 2,
+        "hotelName": "Hotel City Inn",
+        "hotelSpecialty": [
+            "24-hour Room Service",
+            "Free WiFi"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "numberOfGuests": 4,
+        "numberOfBedrooms": 2,
+        "numberOfBaths": 1,
+        "numberOfBeds": 2,
+        "ratings": 4.2,
+        "cost": 40
+    },
+    {
+        "_id": "m4Kl1Dt",
+        "placeId": 2,
+        "hotelName": "Hotel Castle Salam",
+        "hotelSpecialty": [
+            "Rooftop Restaurant",
+            "Conference Facilities"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1590073844006-33379778ae09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "numberOfGuests": 6,
+        "numberOfBedrooms": 3,
+        "numberOfBaths": 2,
+        "numberOfBeds": 3,
+        "ratings": 4.6,
+        "cost": 80
+    },
+    {
+        "_id": "e8Fg2Jn",
+        "placeId": 3,
+        "hotelName": "Grand Sultan Tea Resort & Golf",
+        "hotelSpecialty": [
+            "Spa Services",
+            "Golf Course"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "numberOfGuests": 2,
+        "numberOfBedrooms": 1,
+        "numberOfBaths": 1,
+        "numberOfBeds": 1,
+        "ratings": 4.7,
+        "cost": 150
+    },
+    {
+        "_id": "l6Hj3Pt",
+        "placeId": 3,
+        "hotelName": "Sreemangal Inn",
+        "hotelSpecialty": [
+            "Restaurant",
+            "Garden"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "numberOfGuests": 4,
+        "numberOfBedrooms": 2,
+        "numberOfBaths": 1,
+        "numberOfBeds": 2,
+        "ratings": 4.2,
+        "cost": 50
+    },
+    {
+        "_id": "r9Mn7Vf",
+        "placeId": 3,
+        "hotelName": "Novem Eco Resort",
+        "hotelSpecialty": [
+            "Swimming Pool",
+            "Bicycle Rental"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+        "numberOfGuests": 6,
+        "numberOfBedrooms": 3,
+        "numberOfBaths": 2,
+        "numberOfBeds": 3,
+        "ratings": 4.5,
+        "cost": 80
+    },
+    {
+        "_id": "t5Qp2Lh",
+        "placeId": 4,
+        "hotelName": "The Hillside Resort",
+        "hotelSpecialty": [
+            "Boating",
+            "Swimming"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1445991842772-097fea258e7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "numberOfGuests": 2,
+        "numberOfBedrooms": 1,
+        "numberOfBaths": 1,
+        "numberOfBeds": 1,
+        "ratings": 4.5,
+        "cost": 80
+    },
+    {
+        "_id": "u7Ws9Xc",
+        "placeId": 4,
+        "hotelName": "Parjatan Hotel & Motel Sajek",
+        "hotelSpecialty": [
+            "Hiking",
+            "Camping"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "numberOfGuests": 4,
+        "numberOfBedrooms": 2,
+        "numberOfBaths": 1,
+        "numberOfBeds": 2,
+        "ratings": 4.0,
+        "cost": 60
+    },
+    {
+        "_id": "p8Kj3Vr",
+        "placeId": 4,
+        "hotelName": "Purbani Hotel & Resort",
+        "hotelSpecialty": [
+            "Restaurant",
+            "Spa Services"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "numberOfGuests": 6,
+        "numberOfBedrooms": 3,
+        "numberOfBaths": 2,
+        "numberOfBeds": 3,
+        "ratings": 4.2,
+        "cost": 90
+    }
+]
